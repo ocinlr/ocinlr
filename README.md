@@ -16,4 +16,6 @@
 
 ![Nicolás's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocinlr&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocinlr&theme=dracula)](https://github.com/ocinlr/github-readme-stats)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ocinlr)
